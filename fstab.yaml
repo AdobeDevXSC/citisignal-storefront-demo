@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xcom/main"
+    url: "https://author-p124903-e1367755.adobeaemcloud.com/bin/franklin.delivery/adobedevxsc/citisignal-storefront-demo/main"
     type: "markup"
     suffix: ".html"
 folders:
