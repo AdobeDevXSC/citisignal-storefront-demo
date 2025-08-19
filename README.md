@@ -14,8 +14,8 @@ Before using the boilerplate, we recommend you to go through the documentation o
 
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--citisignal-storefront-demo--adobedevxsc.aem.page/
+- Live: https://main--citisignal-storefront-demo--adobedevxsc.aem.live/
 
 ## Pre-requisites
 
